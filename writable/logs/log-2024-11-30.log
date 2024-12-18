@@ -1,0 +1,555 @@
+CRITICAL - 2024-11-30 02:20:22 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(16): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:21:22 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(16): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:21:23 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(16): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:22:04 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(16): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:22:06 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(16): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:22:07 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(16): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:22:07 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(16): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:24:56 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(15): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:24:57 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(15): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:24:57 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(15): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:25:11 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:25:33 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:25:51 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:25:52 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:25:52 --> ErrorException: Undefined variable $data
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 43.
+ 1 APPPATH\Views\asdos\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:26:58 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:26:58 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:26:59 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:27:55 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:27:56 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:33 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:33 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:33 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:38 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:39 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:39 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:48 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:49 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:49 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:28:58 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: /]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:29:51 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: data]
+in APPPATH\Views\asdos\data.php on line 25.
+ 1 APPPATH\Views\asdos\data.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(14): view('asdos/data', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:29:52 --> ErrorException: Undefined variable $matkul
+[Method: GET, Route: datas]
+in APPPATH\Views\asdos\data.php on line 23.
+ 1 APPPATH\Views\asdos\data.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $matkul', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\asdos\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('asdos/data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(19): view('asdos/data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->data()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:31:25 --> ErrorException: Undefined variable $data
+[Method: GET, Route: datas]
+in APPPATH\Views\data.php on line 43.
+ 1 APPPATH\Views\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(19): view('data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->data()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:31:35 --> ErrorException: Undefined variable $data
+[Method: GET, Route: datas]
+in APPPATH\Views\data.php on line 42.
+ 1 APPPATH\Views\data.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(19): view('data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->data()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:32:16 --> ErrorException: Undefined variable $matkul
+[Method: GET, Route: datas]
+in APPPATH\Views\data.php on line 43.
+ 1 APPPATH\Views\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $matkul', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(19): view('data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->data()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:32:17 --> ErrorException: Undefined variable $matkul
+[Method: GET, Route: datas]
+in APPPATH\Views\data.php on line 43.
+ 1 APPPATH\Views\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $matkul', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(19): view('data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->data()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
+CRITICAL - 2024-11-30 02:32:17 --> ErrorException: Undefined variable $matkul
+[Method: GET, Route: datas]
+in APPPATH\Views\data.php on line 43.
+ 1 APPPATH\Views\data.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $matkul', 'D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\app\\Views\\data.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('data', [], true)
+ 5 APPPATH\Controllers\AsdosController.php(19): view('data')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AsdosController->data()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AsdosController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('D:\\laragon\\www\\Kuliah\\PWLPRAKTIK\\pertemuan8\\public\\index.php')
